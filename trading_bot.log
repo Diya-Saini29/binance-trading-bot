@@ -1,0 +1,55 @@
+2026-04-16 22:02:28 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-04-16 22:02:28 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binance.vision:443
+2026-04-16 22:02:29 - urllib3.connectionpool - DEBUG - https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2026-04-16 22:02:29 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2026-04-16 22:02:30 - urllib3.connectionpool - DEBUG - https://testnet.binancefuture.com:443 "GET /fapi/v2/account?recvWindow=10000&timestamp=1776357149637&signature=11aba46d32a3283c9c5f8aa6727f02aa1656eab3edaebb4fe9be59dda9713dbd HTTP/1.1" 401 69
+2026-04-16 22:02:30 - bot.client - ERROR - API Error: Invalid API-key, IP, or permissions for action
+2026-04-16 22:04:17 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-04-16 22:04:17 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binance.vision:443
+2026-04-16 22:04:18 - urllib3.connectionpool - DEBUG - https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2026-04-16 22:04:18 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2026-04-16 22:04:18 - urllib3.connectionpool - DEBUG - https://testnet.binancefuture.com:443 "GET /fapi/v2/account?recvWindow=10000&timestamp=1776357258286&signature=b3528f26d13da281574507148c6be235a7a5be8109d4198b21e4d1cc1627921a HTTP/1.1" 401 69
+2026-04-16 22:04:18 - bot.client - ERROR - API Error: Invalid API-key, IP, or permissions for action
+2026-04-16 22:04:50 - bot.logging_config - INFO - Connecting to Binance Futures Testnet...
+2026-04-16 22:04:50 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-04-16 22:04:50 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binance.vision:443
+2026-04-16 22:04:51 - urllib3.connectionpool - DEBUG - https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2026-04-16 22:04:51 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2026-04-16 22:04:51 - urllib3.connectionpool - DEBUG - https://testnet.binancefuture.com:443 "GET /fapi/v2/account?recvWindow=10000&timestamp=1776357291052&signature=b46c40597c76b53fce133cc415ef11ab36676cfa18281ab811ee057bb55619a9 HTTP/1.1" 401 69
+2026-04-16 22:04:51 - bot.client - ERROR - API Error: Invalid API-key, IP, or permissions for action
+2026-04-16 22:05:52 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-04-16 22:05:52 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binance.vision:443
+2026-04-16 22:05:53 - urllib3.connectionpool - DEBUG - https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2026-04-16 22:05:53 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2026-04-16 22:05:54 - urllib3.connectionpool - DEBUG - https://testnet.binancefuture.com:443 "GET /fapi/v2/account?recvWindow=10000&timestamp=1776357353720&signature=ef691b1ca767356793fa88197f1b36056ad893efb44b4c21a457a3432e79e75d HTTP/1.1" 401 69
+2026-04-16 22:05:54 - bot.client - ERROR - API Error: Invalid API-key, IP, or permissions for action
+2026-04-16 22:09:13 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-04-16 22:09:13 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binance.vision:443
+2026-04-16 22:09:14 - urllib3.connectionpool - DEBUG - https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2026-04-16 22:09:14 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2026-04-16 22:09:14 - urllib3.connectionpool - DEBUG - https://testnet.binancefuture.com:443 "GET /fapi/v2/account?recvWindow=10000&timestamp=1776357554032&signature=c83a0d39feb284a9227bb432c2258f200c22f82bb2856aed80f8d4e03b9e0014 HTTP/1.1" 401 69
+2026-04-16 22:09:14 - bot.client - ERROR - API Error: Invalid API-key, IP, or permissions for action
+2026-04-16 22:30:35 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-04-16 22:30:35 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binance.vision:443
+2026-04-16 22:30:35 - urllib3.connectionpool - DEBUG - https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2026-04-16 22:30:35 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2026-04-16 22:30:36 - urllib3.connectionpool - DEBUG - https://testnet.binancefuture.com:443 "GET /fapi/v2/account?recvWindow=10000&timestamp=1776358835869&signature=58dfc1d80883ca136466127244a589497aa02ca1d7d3ed392e3c4799e4148cb8 HTTP/1.1" 401 69
+2026-04-16 22:30:36 - bot.client - ERROR - API Error: Invalid API-key, IP, or permissions for action
+2026-04-16 22:32:27 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-04-16 22:32:27 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binance.vision:443
+2026-04-16 22:32:28 - urllib3.connectionpool - DEBUG - https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2026-04-16 22:32:28 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2026-04-16 22:32:28 - urllib3.connectionpool - DEBUG - https://testnet.binancefuture.com:443 "GET /fapi/v2/account?recvWindow=10000&timestamp=1776358948272&signature=61c413463e7ec58e74f810e8353ea6c173ee4434eed28857e8ce32740257fdd9 HTTP/1.1" 401 69
+2026-04-16 22:32:28 - bot.client - ERROR - API Error: Invalid API-key, IP, or permissions for action
+2026-04-16 22:35:06 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-04-16 22:35:06 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binance.vision:443
+2026-04-16 22:35:06 - urllib3.connectionpool - DEBUG - https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2026-04-16 22:35:06 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2026-04-16 22:35:07 - urllib3.connectionpool - DEBUG - https://testnet.binancefuture.com:443 "GET /fapi/v2/account?recvWindow=10000&timestamp=1776359106920&signature=5e1cba2ab396230b09444c7d1e577170c04c653c7e2226a24893e2ffb9b3f616 HTTP/1.1" 401 69
+2026-04-16 22:35:07 - bot.client - ERROR - API Error: Invalid API-key, IP, or permissions for action
+2026-04-16 22:35:58 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-04-16 22:35:58 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binance.vision:443
+2026-04-16 22:35:58 - urllib3.connectionpool - DEBUG - https://testnet.binance.vision:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2026-04-16 22:35:58 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2026-04-16 22:35:59 - urllib3.connectionpool - DEBUG - https://testnet.binancefuture.com:443 "GET /fapi/v2/account?recvWindow=10000&timestamp=1776359158736&signature=69e65936c30e579a15f5ddd34cb95dcaaa748ef746467087f1651db01a68a291 HTTP/1.1" 401 69
+2026-04-16 22:35:59 - bot.client - ERROR - API Error: Invalid API-key, IP, or permissions for action
